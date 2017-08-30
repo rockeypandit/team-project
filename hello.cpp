@@ -6,5 +6,6 @@ cout<<"My change"<<endl;
 cout<<"lets see";
 cout<<"New feature - chating systerm"<<endl;
 cout<<"we added a turram khan"<<endl;
-reutnr 0;
+cout<<"added feature 3"<<endl;
+return 0;
 }
